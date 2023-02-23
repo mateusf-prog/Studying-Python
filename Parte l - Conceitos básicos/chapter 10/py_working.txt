@@ -1,0 +1,8 @@
+variaveis
+listas, dicionarios e tuplas
+laco de iteracao 'for'
+laco condicional 'while'
+intrucoes condicionais 'if' 'elif e 'else'
+definicoes e uso de funcoes
+classes
+e muito mais...
